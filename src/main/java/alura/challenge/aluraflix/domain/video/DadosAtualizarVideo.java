@@ -1,4 +1,4 @@
-package alura.challenge.aluraflix.video;
+package alura.challenge.aluraflix.domain.video;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

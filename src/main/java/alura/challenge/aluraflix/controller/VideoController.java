@@ -1,6 +1,6 @@
 package alura.challenge.aluraflix.controller;
 
-import alura.challenge.aluraflix.video.*;
+import alura.challenge.aluraflix.domain.video.*;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

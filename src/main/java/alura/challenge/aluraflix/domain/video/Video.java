@@ -1,4 +1,4 @@
-package alura.challenge.aluraflix.video;
+package alura.challenge.aluraflix.domain.video;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package alura.challenge.aluraflix.infra;
+package alura.challenge.aluraflix.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.dao.EmptyResultDataAccessException;

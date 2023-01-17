@@ -1,4 +1,4 @@
-package alura.challenge.aluraflix.video;
+package alura.challenge.aluraflix.domain.video;
 
 public record DadosDetalhamentoVideo(Long id, String titulo, String descricao, String url) {
     public DadosDetalhamentoVideo(Video video) {
